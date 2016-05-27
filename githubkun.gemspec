@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kazuooooo"]
   spec.email         = ["matsumotokazuya7@gmail.com"]
 
-  spec.summary       = %q{TODO: githubkun.}
-  spec.description   = %q{TODO: githubkun}
-  spec.homepage      = "TODO: https://github.com/kazuooooo/githubkun"
+  spec.summary       = %q{githubkun.}
+  spec.description   = %q{githubkun}
+  spec.homepage      = "https://github.com/kazuooooo/githubkun"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
