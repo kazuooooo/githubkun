@@ -9,5 +9,9 @@ module Githubkun
         puts repository
       end
     end
+
+    def hoge
+      puts "hoge"
+    end
   end
 end
