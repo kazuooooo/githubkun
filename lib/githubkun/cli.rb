@@ -11,7 +11,7 @@ module Githubkun
     end
 
     def hoge
-      
+      puts "hoge"
     end
   end
 end
